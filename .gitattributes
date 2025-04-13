@@ -1,5 +1,3 @@
+* linguist-detectable=false
+*.py linguist-detectable=true
 *.py linguist-language=Python
-*.md linguist-detectable=false
-*.html linguist-detectable=false
-*.gitattributes linguist-detectable=false
-
